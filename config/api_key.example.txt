@@ -1,0 +1,2 @@
+# Mẫu cấu hình: tạo config/api_key.txt và dán API key vào một dòng riêng.
+# Không đưa API key lên GitHub.
